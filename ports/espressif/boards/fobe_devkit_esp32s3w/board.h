@@ -55,8 +55,8 @@
 // USB UF2
 //--------------------------------------------------------------------+
 
-#define USB_VID                  0x303A
-#define USB_PID                  0x811B
+#define USB_VID                  0x1209
+#define USB_PID                  0x0001
 
 #define USB_MANUFACTURER         "FoBE"
 #define USB_PRODUCT              "FoBE DevKit ESP32S3W"
