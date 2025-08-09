@@ -34,8 +34,8 @@
 #define USB_PRODUCT              "FoBE Quill ESP32S3 Mesh"
 
 #define UF2_PRODUCT_NAME         USB_MANUFACTURER " " USB_PRODUCT
-#define UF2_VOLUME_LABEL         "FoBE Boot"
-#define UF2_BOARD_ID             "f1102_r1a"
+#define UF2_VOLUME_LABEL         "FOBEBOOT"
+#define UF2_BOARD_ID             "ESP32S3-FoBEF1102-rev1a"
 #define UF2_INDEX_URL            "https://docs.fobestudio.com/product/f1102"
 
 #endif
